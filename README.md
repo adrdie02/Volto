@@ -1,7 +1,3 @@
-Un buen README.md es la carta de presentación de tu código. He redactado uno profesional que refleja la limpieza que acabamos de hacer, destacando el uso de tecnologías modernas (Vite, React, Tailwind, Shadcn UI) y eliminando cualquier mención a herramientas externas.
-
-Aquí tienes el contenido que puedes copiar y pegar en tu archivo README.md:
-
 Markdown
 # Streetwear Identity Kit 👕
 
