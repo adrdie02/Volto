@@ -1,4 +1,4 @@
-Markdown
+
 # Streetwear Identity Kit 👕
 
 Una aplicación web moderna y profesional para la gestión de identidad en marcas de ropa (Streetwear), construida con un enfoque en el rendimiento, la escalabilidad y una experiencia de usuario excepcional.
