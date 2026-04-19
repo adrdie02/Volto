@@ -17,7 +17,7 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-      <BrowserRouter>
+      <BrowserRouter basename:"/Volto">
         <AuthProvider>
           <CartProvider>
             <CartDrawer />
